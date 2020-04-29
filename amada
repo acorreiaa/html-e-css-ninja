@@ -47,3 +47,11 @@ inline style
 </style>
 HTMLhypertextmakeruplanguage
 CSS=cascading style sheets
+
+<label for="username">enter username:</label>
+<input type="text" id="username" placeholder="ex.Laura" required>
+<input type="email"
+<label for="password">
+<input type="radio"
+
+alt+shift+f = identar tudo

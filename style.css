@@ -1,0 +1,11 @@
+h1{
+    color:orange;
+    background-color: rgb(63, 9, 61);
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p{
+    color: rgb(63, 9, 61);
+}
