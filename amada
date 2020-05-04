@@ -55,3 +55,4 @@ CSS=cascading style sheets
 <input type="radio"
 
 alt+shift+f = identar tudo
+Selector= o que estará aplicando ao css(o que vem antes da chave{})
