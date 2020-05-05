@@ -1,3 +1,32 @@
-p.error{
+/*p.error{
     color: red;
+}
+p.success{
+    color: green;
+}
+p.success.feedback{
+    border: 1px dashed black;
+}
+#content{
+    background-color: #ebebeb;
+    padding: 20px;
+}*/
+/* div .error{
+    color:red;
+}*/
+/*a[href]{
+    background-color: chartreuse;
+}*/
+a[href="https://www.google.com/"]{
+    background-color: chartreuse;
+    color: white;
+    text-decoration: dotted;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+a[href*="apple"]{
+    color: black;
+    background-color: wheat;
+    text-decoration: none;
+    border: 2px solid black;
 }
