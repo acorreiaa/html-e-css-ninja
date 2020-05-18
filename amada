@@ -106,3 +106,4 @@ FORMULÁRIO:
         <input type="submit" value="submit the form">
     </form>
 <nav> tag para navegar"navegar entre páginas"
+nowrap= não deixa ir pra próxima linha
