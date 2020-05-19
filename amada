@@ -107,3 +107,4 @@ FORMULÁRIO:
     </form>
 <nav> tag para navegar"navegar entre páginas"
 nowrap= não deixa ir pra próxima linha
+pseudo class: :hover :focus :valid...
